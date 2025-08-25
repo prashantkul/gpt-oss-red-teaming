@@ -1,0 +1,18 @@
+{
+  "abliterated_attack_generation": {
+    "timestamp": "20250809_085747",
+    "abliterated_model": "hf.co/mlabonne/Meta-Llama-3.1-8B-Instruct-abliterated-GGUF:latest",
+    "target_model": "openai/gpt-oss-20b",
+    "categories_tested": 5,
+    "total_successful_attacks": 0,
+    "findings_generated": 0
+  },
+  "successful_attacks_by_category": {},
+  "attack_analysis": [],
+  "methodology_effectiveness": {
+    "abliterated_model_generation": true,
+    "novel_attack_vectors": 0,
+    "systematic_vulnerabilities_found": 0,
+    "competition_ready_findings": 0
+  }
+}
